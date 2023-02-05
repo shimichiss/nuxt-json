@@ -1,0 +1,46 @@
+{
+    "services":[
+        {
+            "id": 1,
+            "name": "Residential Upholstery",
+            "desc": "Upholstery work on Residential properties such as living room sofas and lounge, backyard couches, recliners and others. Service includes padding, cushioning, cover repair, cover replacement, and general repairs.",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Commercial Upholstery",
+            "desc": "Upholstery work on commercial properties such as Office lounges, restaurant chairs, cafe scrubs and others. Service includes padding, cushioning, cover repair, cover replacement, and general repairs.",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Marine Upholstery",
+            "desc": "Upholstery work on marine properties such as boat rain covers, boat chairs, boat squabs, flooring and others. Service includes padding, cushioning, cover repair, cover replacement, and general repairs.",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Automotive Upholstery",
+            "desc": "Upholstery work on automotive interior such as hoodlining, car seat covers, flooring, door cards and others. Service includes padding, cushioning, cover repair, cover replacement, and general repairs.",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Residential Tinting",
+            "desc": "Tinting work on residential windows wherein we apply a thin lamenated sheet of film in accordance to customers' choice. films range from darkening 3M materials to reflective materials in accordance to local rules. Service includes warranty, film clean up, and  film removal",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Commercial Tinting",
+            "desc": "Tinting work on commercial windows wherein we apply a thin lamenated sheet of film in accordance to customers' choice. films range from darkening 3M materials to reflective materials in accordance to local rules. Service includes warranty, film clean up, and  film removal",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Automotive Tinting",
+            "desc": "Tinting work on automotive windows wherein we apply a thin lamenated sheet of film in accordance to customers' choice. films range from darkening 3M materials to reflective materials in accordance to local rules. Service includes warranty, film clean up, and  film removal",
+            "img":"./assets/imgs/pexels-andrea-piacquadio-3757055.jpg"
+        }
+    ]
+}
